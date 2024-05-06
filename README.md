@@ -1,6 +1,11 @@
 # quake_app
 
  Flutter Earthquake app using GoogleMap API and EarthQuake API  which shows the location of EarthQuakes with pointers on Map.
+ Getting flutter Google Map package and instructions: https://pub.dev/packages/google_maps_flutter
+
+Getting your own API key for Google Maps: https://cloud.google.com/maps-platform/
+
+
 
 ## Getting Started
 
